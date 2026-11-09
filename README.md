@@ -1,2 +1,1 @@
-# Datech-Solution-Plus
-Digital solutions, data management, dashboards and community development tools for NGOs, schools and local organizations in Haiti.
+<img width="957" height="2268" alt="image" src="https://github.com/user-attachments/assets/01692fbf-410a-4090-a0da-c75bae30f408" />
